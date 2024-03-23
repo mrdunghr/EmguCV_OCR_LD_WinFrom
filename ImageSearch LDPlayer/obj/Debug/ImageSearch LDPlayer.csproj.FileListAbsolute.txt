@@ -45,3 +45,50 @@ C:\Users\Admin\source\repos\ImageSearch LDPlayer\ImageSearch LDPlayer\bin\Debug\
 C:\Users\Admin\source\repos\ImageSearch LDPlayer\ImageSearch LDPlayer\bin\Debug\vcruntime140.dll
 C:\Users\Admin\source\repos\ImageSearch LDPlayer\ImageSearch LDPlayer\bin\Debug\vcruntime140_1.dll
 C:\Users\Admin\source\repos\ImageSearch LDPlayer\ImageSearch LDPlayer\bin\Debug\version_string.inc
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\cvextern.lib
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\concrt140.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\cvextern.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\msvcp140.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\msvcp140_1.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\msvcp140_2.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\msvcp140_atomic_wait.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\msvcp140_codecvt_ids.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\vcruntime140.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\vcruntime140_1.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\version_string.inc
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\ImageSearch LDPlayer.exe.config
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\ImageSearch LDPlayer.exe
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\ImageSearch LDPlayer.pdb
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\Emgu.CV.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\Emgu.CV.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSearch LDPlayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSearch_LDPlayer.Form1.resources
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSearch_LDPlayer.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSearch LDPlayer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSearch LDPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSea.61D7F032.Up2Date
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSearch LDPlayer.exe
+C:\Users\Admin\Desktop\C# Git\EmguCV_OCR_LD_WinFrom\ImageSearch LDPlayer\obj\Debug\ImageSearch LDPlayer.pdb

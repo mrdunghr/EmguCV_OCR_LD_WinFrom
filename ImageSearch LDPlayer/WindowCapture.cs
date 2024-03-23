@@ -51,9 +51,13 @@ namespace ImageSearch_LDPlayer
             Console.WriteLine("Giá trị tương tự cao nhất (maxVal): " + maxVal);
             Console.WriteLine("Giá trị tương tự thấp nhất (minval): " + minVal);
 
-            // Đặt ngưỡng để xác định kết quả
+            // Cách 1 Đặt ngưỡng để xác định kết quả
             double threshold = 1;
             bool isFound = maxVal < threshold || minVal < threshold;
+
+            //// Cách 2 Đặt Ngưỡng cho phép sai số - cái này cần chính xác tại maxval minval
+            //double epsilon = 0.000001;
+            //bool isFound = Math.Abs(maxVal - 0.39310696721076965) < epsilon || Math.Abs(minVal - (-0.4673294723033905)) < epsilon;
 
             // Hiển thị kết quả
             if (isFound)
